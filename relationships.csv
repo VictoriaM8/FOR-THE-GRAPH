@@ -1,22 +1,22 @@
-src;dst;relationship;cost
-Madrid;Alcorcon;EROAD;13131
-Las Rozas de Madrid;Alcorcon;EROAD;17722
-Tres Cantos;Madrid;EROAD;20927
-Tres Cantos;Alcorcon;EROAD;31416
-Coslada;Madrid;EROAD;12355
-Coslada;Getafe;EROAD;18644
-Getafe;Madrid;EROAD;11905
-Getafe;Alcorcon;EROAD;9429
-Alcobendas;Madrid;EROAD;15315
-Alcobendas;Tres Cantos;EROAD;9384
-Alcobendas;Las Rozas de Madrid;EROAD;21631
-Pinto;Getafe;EROAD;8581
-Pinto;Madrid;EROAD;20082
-Pinto;Coslada;EROAD;23683
-Valdemoro;Pinto;EROAD;5582
-Valdemoro;Getafe;EROAD;13901
-Valdemoro;Madrid;EROAD;25592
-Leganes;Madrid;EROAD;11239
-Leganes;Alcorcon;EROAD;5834
-Leganes;Tres Cantos;EROAD;30688
-Las Rozas de Madrid;Getafe;EROAD;24507
+src,dst,relationship,cost
+Madrid,Alcorcon,EROAD,13131
+Las Rozas de Madrid,Alcorcon,EROAD,17722
+Tres Cantos,Madrid,EROAD,20927
+Tres Cantos,Alcorcon,EROAD,31416
+Coslada,Madrid,EROAD,12355
+Coslada,Getafe,EROAD,18644
+Getafe,Madrid,EROAD,11905
+Getafe,Alcorcon,EROAD,9429
+Alcobendas,Madrid,EROAD,15315
+Alcobendas,Tres Cantos,EROAD,9384
+Alcobendas,Las Rozas de Madrid,EROAD,21631
+Pinto,Getafe,EROAD,8581
+Pinto,Madrid,EROAD,20082
+Pinto,Coslada,EROAD,23683
+Valdemoro,Pinto,EROAD,5582
+Valdemoro,Getafe,EROAD,13901
+Valdemoro,Madrid,EROAD,25592
+Leganes,Madrid,EROAD,11239
+Leganes,Alcorcon,EROAD,5834
+Leganes,Tres Cantos,EROAD,30688
+Las Rozas de Madrid,Getafe,EROAD,24507
