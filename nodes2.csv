@@ -1,8 +1,8 @@
 id,latitude,longitude,population
 Madrid,40.24,40.24,3266000
 Alcorcon,40.2057,40.2057,168299
-Las Rozas de Madrid,40.293,40.293,88065
-Tres Cantos,40.3624,40.3624,41147
+LasRozasdeMadrid,40.293,40.293,88065
+TresCantos,40.3624,40.3624,41147
 Coslada,40.2534,40.2534,91218
 Getafe,40.18,40.18,169130
 Alcobendas,40.32,40.32,110080
